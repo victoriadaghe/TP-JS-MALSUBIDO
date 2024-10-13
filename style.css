@@ -1,0 +1,47 @@
+.blue-text {
+  color: blue;
+}
+
+/* Estilos básicos */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+section, form {
+  margin-bottom: 20px;
+}
+
+/* Párrafos */
+
+
+/* Botones */
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Inputs */
+input {
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
